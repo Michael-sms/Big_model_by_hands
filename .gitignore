@@ -2,3 +2,9 @@
 .venv/
 README_origin.md
 images/logo.png
+
+# ch05
+ch05/4.66
+ch05/model.pth
+ch05/model_and_optimizer.pth
+ch05/gpt2/
