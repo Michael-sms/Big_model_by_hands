@@ -8,3 +8,7 @@ ch05/4.66
 ch05/model.pth
 ch05/model_and_optimizer.pth
 ch05/gpt2/
+
+# ch06
+ch06/sms_spam_collection/
+ch06/sms_spam_collection.zip
